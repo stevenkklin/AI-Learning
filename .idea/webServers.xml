@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e9386884-9fc8-41f7-8e4e-bbf21874d322" name="txyun linchao">
+        <fileTransfer rootFolder="/home/linchao/python_lesson" accessType="SFTP" host="175.178.38.11" port="22" sshConfigId="1c8a611c-e0c8-4f7f-927f-653a487c1b2f" sshConfig="linchao@175.178.38.11:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
